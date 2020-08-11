@@ -1,0 +1,7 @@
+H:\C# Console\NetworkBasedShut\NetworkBasedShut\bin\Debug\NetworkBasedShut.exe.config
+H:\C# Console\NetworkBasedShut\NetworkBasedShut\bin\Debug\NetworkBasedShut.exe
+H:\C# Console\NetworkBasedShut\NetworkBasedShut\bin\Debug\NetworkBasedShut.pdb
+H:\C# Console\NetworkBasedShut\NetworkBasedShut\obj\Debug\NetworkBasedShut.csprojAssemblyReference.cache
+H:\C# Console\NetworkBasedShut\NetworkBasedShut\obj\Debug\NetworkBasedShut.csproj.CoreCompileInputs.cache
+H:\C# Console\NetworkBasedShut\NetworkBasedShut\obj\Debug\NetworkBasedShut.exe
+H:\C# Console\NetworkBasedShut\NetworkBasedShut\obj\Debug\NetworkBasedShut.pdb
